@@ -49,4 +49,4 @@ I got some help from Jehad Abu Awwad
 
 ## Pull requests :
 
-[Pull requests]()
+[Pull requests](https://github.com/Faisal-Kushha/Linear-Regressions/pull/1)
